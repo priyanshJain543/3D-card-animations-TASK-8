@@ -1,6 +1,6 @@
 ## 🔗 Live Demo
 
-👉 **Live Demo:** 
+👉 **Live Demo:** https://priyanshjain543.github.io/3D-card-animations-TASK-8/ 
 
 ---
 
@@ -50,5 +50,6 @@ Ensure image names and paths match the HTML file.
 **Priyansh Jain**
 
 Happy Coding 🚀
-"# priyanshJain543-3D-card-animations-TASK-8" 
-"# 3D-card-animations-TASK-8" 
+"priyanshJain543-3D-card-animations-TASK-8" 
+"3D-card-animations-TASK-8" 
+"# 3D Card Animations TASK-8" 
