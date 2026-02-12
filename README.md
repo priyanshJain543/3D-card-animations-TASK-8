@@ -1,6 +1,6 @@
 ## 🔗 Live Demo
 
-👉 **Live Demo:** https://priyanshjain543.github.io/3D-card-animations-TASK-8/ 
+👉 **Live Demo:** 
 
 ---
 
